@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "paint_bucket_selector"
+version = "1.0.0"
+name = "油漆桶选择"
+tagline = "按材质或颜色一键选中整块面"
+maintainer = "YG"
+type = "add-on"
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
